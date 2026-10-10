@@ -11,16 +11,16 @@ Menggunakan nested loop, pola, akumulasi, dan pencacahan.
 ## Struktur Folder
 
 Pertemuan_06_nested_loop_2225250061/
-1. latihan/
+latihan/
 - 01_pasangan_indeks.py
 - 02_pola_segitiga.py
 - 03_jumlah_per_baris.py
 - 04_hitung_pasangan.py
-2. tugas/
+tugas/
 - tabel_perkalian_dan_statistik.py
-3. .gitignore
-4. kuis formatif_pertemuan 06.docx
-5. README.md
+.gitignore
+kuis formatif_pertemuan 06.docx
+README.md
 
 ## Cara Menjalankan
 
@@ -28,27 +28,22 @@ Latihan 1:
 ```bash
 python3 latihan/01_pasangan_indeks.py
 ```
-
 Latihan 2:
 ```bash
 python3 latihan/02_pola_segitiga.py
 ```
-
 Latihan 3:
 ```bash
 python3 latihan/03_jumlah_per_baris.py
 ```
-
 Latihan 4:
 ```bash
 python3 latihan/04_hitung_pasangan.py
 ```
-
 Tugas 3:
 ```bash
 python3 tugas/tabel_perkalian_dan_statistik.py
 ```
-
 ## Algoritma Tugas 3
 
 1. Meminta input bilangan positif `n`.
