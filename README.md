@@ -11,16 +11,16 @@ Menggunakan nested loop, pola, akumulasi, dan pencacahan.
 ## Struktur Folder
 
 Pertemuan_06_nested_loop_2225250061/
-latihan/
+# latihan/
 - 01_pasangan_indeks.py
 - 02_pola_segitiga.py
 - 03_jumlah_per_baris.py
 - 04_hitung_pasangan.py
-tugas/
+# tugas/
 - tabel_perkalian_dan_statistik.py
-.gitignore
-kuis formatif_pertemuan 06.docx
-README.md
+# .gitignore
+# kuis formatif_pertemuan 06.docx
+# README.md
 
 ## Cara Menjalankan
 
