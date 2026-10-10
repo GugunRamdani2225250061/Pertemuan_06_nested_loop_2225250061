@@ -25,5 +25,5 @@ for i in range(1, n + 1):
 
     print(f" | jumlah baris = {total_baris}")
 
-print(f"Jumlah semua = {total_semua}")
-print(f"Jumlah bilangan genap = {count_genap}")
+print(f"Total seluruh hasil = {total_semua}")
+print(f"Banyak hasil genap = {count_genap}")
